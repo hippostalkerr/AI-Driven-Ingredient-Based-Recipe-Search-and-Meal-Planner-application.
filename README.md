@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AI-Driven-Ingredient-Based-Recipe-Search-and-Meal-Planner-application.
+>>>>>>> 2d16e88b32ef668e256a49dd6947cdf29c9e349f
